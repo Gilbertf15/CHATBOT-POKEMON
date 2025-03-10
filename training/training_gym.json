@@ -1,0 +1,76 @@
+{
+  "conversas_bot": [
+    {
+      "pergunta": "Ginasio de Pewter  ",
+      "resposta": "O Ginásio de Pewter, localizado na região de Kanto, é liderado por Brock e especializado em Pokémon do tipo rocha. É o primeiro desafio de muitos treinadores que começam sua jornada, exigindo estratégias para lidar com alta defesa."
+    },
+    {
+      "pergunta": "Ginasio de Cerulean ",
+      "resposta": "O Ginásio de Cerulean, liderado por Misty, é especializado em Pokémon do tipo água. Localizado em Cerulean City, possui um campo de batalha aquático, testando as habilidades de treinadores iniciantes contra Starmie e outros Pokémon aquáticos."
+    },
+    {
+      "pergunta": "Ginasio de Vermilion ",
+      "resposta": "O Ginásio de Vermilion, liderado por Lt. Surge, foca em Pokémon do tipo elétrico. Com sua famosa Raichu, Lt. Surge desafia treinadores em um campo eletrificado, exigindo estratégias rápidas e inteligentes para vencer."
+    },
+    {
+      "pergunta": "Ginasio de Celadon ",
+      "resposta": "O Ginásio de Celadon é liderado por Erika e especializado em Pokémon do tipo grama. Localizado em um jardim exuberante, os desafios incluem Pokémon como Vileplume, que utiliza movimentos tóxicos e de paralisia."
+    },
+    {
+      "pergunta": "Ginasio de Fuchsia ",
+      "resposta": "O Ginásio de Fuchsia é liderado por Koga, um mestre em Pokémon do tipo venenoso. Localizado na cidade de Fuchsia, o ginásio inclui armadilhas e paredes invisíveis, tornando o desafio ainda mais difícil."
+    },
+    {
+      "pergunta": "Ginasio de Saffron",
+      "resposta": "O Ginásio de Saffron é liderado por Sabrina, especialista em Pokémon do tipo psíquico. Localizado na movimentada cidade de Saffron, o ginásio é conhecido por seu campo com teletransportadores e a poderosa Alakazam."
+    },
+    {
+      "pergunta": "Ginasio de Cinnabar",
+      "resposta": "O Ginásio de Cinnabar, liderado por Blaine, é especializado em Pokémon do tipo fogo. Situado em uma ilha vulcânica, Blaine testa os treinadores com perguntas de quiz antes de enfrentá-los em uma batalha intensa."
+    },
+    {
+      "pergunta": "Ginasio de Viridian",
+      "resposta": "O Ginásio de Viridian é liderado por Giovanni, chefe da Equipe Rocket. Ele utiliza Pokémon do tipo terrestre e rocha, apresentando um desafio formidável aos treinadores que buscam suas últimas insígnias."
+    },
+    {
+      "pergunta": "Ginasio de Violet",
+      "resposta": "O Ginásio de Violet, na região de Johto, é liderado por Falkner e especializado em Pokémon do tipo voador. Com seu famoso Pidgeot, Falkner desafia treinadores em um campo elevado e ventilado."
+    },
+    {
+      "pergunta": "Ginasio de Azalea",
+      "resposta": "O Ginásio de Azalea, liderado por Bugsy, é especializado em Pokémon do tipo inseto. Localizado em Azalea Town, o ginásio apresenta Pokémon rápidos e técnicas cortantes, como as de Scyther."
+    },
+    {
+      "pergunta": "Ginasio de Goldenrod",
+      "resposta": "O Ginásio de Goldenrod é liderado por Whitney, famosa por sua Miltank. Este ginásio, localizado na maior cidade de Johto, desafia treinadores com Pokémon do tipo normal e uma grande dificuldade estratégica."
+    },
+    {
+      "pergunta": "Ginasio de Ecruteak",
+      "resposta": "O Ginásio de Ecruteak é liderado por Morty e especializado em Pokémon do tipo fantasma. Localizado na cidade histórica de Ecruteak, o ginásio testa os treinadores com batalhas astutas contra Gengar e outros fantasmas."
+    },
+    {
+      "pergunta": "Ginasio de Cianwood",
+      "resposta": "O Ginásio de Cianwood, liderado por Chuck, é especializado em Pokémon do tipo lutador. Localizado em uma ilha isolada, o ginásio exige força e resistência para superar Pokémon como Poliwrath."
+    },
+    {
+      "pergunta": "Ginasio de Olivine",
+      "resposta": "O Ginásio de Olivine é liderado por Jasmine, especialista em Pokémon do tipo aço. Situado em Olivine City, o ginásio destaca a força defensiva de Pokémon como Steelix e desafios com ataques de ferro."
+    },
+    {
+      "pergunta": "Ginasio de Mahogany",
+      "resposta": "O Ginásio de Mahogany é liderado por Pryce, que usa Pokémon do tipo gelo. Localizado em Mahogany Town, o ginásio desafia treinadores a lidar com ataques congelantes e estratégias defensivas."
+    },
+    {
+      "pergunta": "Ginasio de Blackthorn",
+      "resposta": "O Ginásio de Blackthorn é liderado por Clair, especialista em Pokémon do tipo dragão. Este ginásio, situado perto das Dragon’s Den, é conhecido por seu desafio intenso e pela poderosa Kingdra de Clair."
+    },
+    {
+      "pergunta": "Ginasio de Rustboro",
+      "resposta": "O Ginásio de Rustboro é liderado por Roxanne e especializado em Pokémon do tipo rocha. Localizado na região de Hoenn, o ginásio oferece um campo desafiador para treinadores iniciantes com Pokémon como Nosepass."
+    },
+    {
+      "pergunta": "Ginasio de Dewford",
+      "resposta": "O Ginásio de Dewford, liderado por Brawly, foca em Pokémon do tipo lutador. Localizado na pequena ilha de Dewford, o ginásio testa a força e as estratégias dos treinadores com Pokémon como Makuhita."
+    }
+  ]
+}

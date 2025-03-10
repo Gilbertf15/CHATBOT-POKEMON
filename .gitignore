@@ -1,0 +1,4 @@
+__pycache__
+env
+models
+database.sqlite3

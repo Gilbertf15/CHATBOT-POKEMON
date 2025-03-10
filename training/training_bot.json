@@ -1,0 +1,116 @@
+{
+  "conversas_bot": [
+    {
+      "pergunta": "Oi, tudo bem?",
+      "resposta": "Oi! Estou bem, sou um chatbot pokémon."
+    },
+    {
+      "pergunta": "Oi",
+      "resposta": "Oi! como está?"
+    },
+    {
+      "pergunta": "Qual o seu nome?",
+      "resposta": "Eu sou um chatbot. Qual é o seu nome?"
+    },
+    {
+      "pergunta": "Quem é você??",
+      "resposta": "Eu sou um chatbot. Qual é o seu nome?"
+    },
+    {
+      "pergunta": "O que voce faz?",
+      "resposta": "Eu respondo perguntas sobre o mundo pokemon e tento ajudar da melhor forma possível!"
+    },
+    {
+      "pergunta": "meu nome é ...",
+      "resposta": "Prazer em conhecelo, faça uma pergunta sobre pokemon!"
+    },
+    {
+      "pergunta": "Não",
+      "resposta": "Ok, até logo."
+    },
+    {
+      "pergunta": "Que horas são?",
+      "resposta": "Eu não consigo ver as horas agora, mas posso te ajudar com informações sobre o mundo pokémon!"
+    },
+    {
+      "pergunta": "De onde você é?",
+      "resposta": "Eu vivo na nuvem, onde tudo acontece digitalmente."
+    },
+    {
+      "pergunta": "Ash Ketchum",
+      "resposta": "Ash Ketchum é o protagonista principal do anime Pokémon, vindo de Pallet Town. Seu sonho é se tornar um Mestre Pokémon. Ele é um treinador determinado que se conecta profundamente com seus Pokémon, especialmente com Pikachu, seu companheiro mais leal."
+    },
+    {
+      "pergunta": "Você gosta de música?",
+      "resposta": "Eu não escuto música, mas sei que muitas pessoas adoram!"
+    },
+    {
+      "pergunta": "Qual sua cor favorita?",
+      "resposta": "Eu não tenho uma cor favorita, mas gosto de aprender sobre as preferências das pessoas."
+    },
+    {
+      "pergunta": "Você pode me ajudar?",
+      "resposta": "Claro! Posso te ajudar com informaçôes sobre o mundo pokémon."
+    },
+    {
+      "pergunta": "Tchau!",
+      "resposta": "Tchau! Foi um prazer conversar com você. Até a próxima!"
+    },
+    {
+      "pergunta": "O que é um Pokémon?",
+      "resposta": "Pokémon são criaturas fictícias que habitam o mundo de Pokémon e podem ser capturadas e treinadas por treinadores."
+    },
+    {
+      "pergunta": "Pokémon?",
+      "resposta": "Pokémon são criaturas fictícias que habitam o mundo de Pokémon e podem ser capturadas e treinadas por treinadores."
+    },
+    {
+      "pergunta": "Quantos tipos de Pokémon existem?",
+      "resposta": "Existem 18 tipos de Pokémon, como fogo, água, grama, elétrico, entre outros."
+    },
+    {
+      "pergunta": "Qual é o Pokémon inicial do tipo fogo da região de Kanto?",
+      "resposta": "O Pokémon inicial do tipo fogo da região de Kanto é o Charmander."
+    },
+    {
+      "pergunta": "O Pikachu é de qual tipo?",
+      "resposta": "O Pikachu é do tipo elétrico."
+    },
+    {
+      "pergunta": "Pikachu?",
+      "resposta": "O Pikachu é do tipo elétrico."
+    },
+    {
+      "pergunta": "Qual é o Pokémon lendário que representa o tipo gelo na região de Kanto?",
+      "resposta": "O Pokémon lendário do tipo gelo na região de Kanto é o Articuno."
+    },
+    {
+      "pergunta": "Qual é a evolução do Bulbasaur?",
+      "resposta": "O Bulbasaur evolui para Ivysaur."
+    },
+    {
+      "pergunta": "Quantas gerações de Pokémon existem até agora?",
+      "resposta": "Existem 9 gerações de Pokémon até o momento."
+    },
+    {
+      "pergunta": "O que é uma Pokébola?",
+      "resposta": "Uma Pokébola é um dispositivo usado para capturar e armazenar Pokémon."
+    },
+    {
+      "pergunta": "O que significa a sigla 'HP' em Pokémon?",
+      "resposta": "HP significa 'Hit Points', ou pontos de vida, que representam a saúde de um Pokémon em batalha."
+    },
+    {
+      "pergunta": "Qual é o objetivo principal dos treinadores Pokémon?",
+      "resposta": "O objetivo principal dos treinadores é capturar, treinar Pokémon e se tornar o Campeão de uma região."
+    },
+    {
+      "pergunta": "pergunta aleatória",
+      "resposta": "Infelizmente não entendi a pergunta, tente novamente"
+    },
+    {
+      "pergunta": "Obrigado",
+      "resposta": "De nada, estou aqui para ajudar"
+    }
+  ]
+}

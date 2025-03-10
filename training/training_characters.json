@@ -1,0 +1,104 @@
+{
+  "conversas_bot": [
+    {
+      "pergunta": "quem é o protanonista Ash Ketchum?",
+      "resposta": "Ash Ketchum é o protagonista principal do anime Pokémon, vindo de Pallet Town. Seu sonho é se tornar um Mestre Pokémon. Ele é um treinador determinado que se conecta profundamente com seus Pokémon, especialmente com Pikachu, seu companheiro mais leal."
+    },
+    {
+      "pergunta": "quem é a personagem Misty?",
+      "resposta": "Misty é a líder do Ginásio de Cerulean e especialista em Pokémon do tipo água. Ela viajou ao lado de Ash em suas primeiras aventuras e, apesar de sua personalidade forte, é extremamente dedicada aos seus amigos e ao bem-estar dos Pokémon."
+    },
+    {
+      "pergunta": "quem é o personagem Brock?",
+      "resposta": "Brock é um ex-líder do Ginásio de Pewter e um dos companheiros mais leais de Ash. Ele é conhecido por suas habilidades culinárias, seus conhecimentos sobre Pokémon e seu comportamento cômico, especialmente quando se apaixona por mulheres."
+    },
+    {
+      "pergunta": "quem é o personagem Professor Oak?",
+      "resposta": "Professor Oak é um renomado pesquisador Pokémon da região de Kanto e uma das figuras mais importantes no mundo Pokémon. Ele guia novos treinadores, incluindo Ash, fornecendo seu primeiro Pokémon e oferecendo conselhos valiosos durante suas jornadas."
+    },
+    {
+      "pergunta": "quem é o personagem Gary Oak?",
+      "resposta": "Gary Oak é o neto do Professor Oak e o principal rival de Ash durante as primeiras temporadas do anime Pokémon. Ele é confiante, competitivo e habilidoso, mas amadurece ao longo da série, tornando-se um pesquisador Pokémon talentoso."
+    },
+    {
+      "pergunta": "quem é a personagem Jessie?",
+      "resposta": "Jessie é uma das integrantes da Equipe Rocket. Ela é teimosa, determinada e frequentemente dramática, mas sua lealdade à equipe e seu sonho de ser reconhecida tornam sua história emocionante. Ela busca capturar Pokémon raros, especialmente Pikachu."
+    },
+    {
+      "pergunta": "quem é o personagem James?",
+      "resposta": "James é o parceiro de Jessie na Equipe Rocket. Apesar de estar do lado dos vilões, ele é gentil e tem uma forte conexão emocional com seus Pokémon. Seu passado é marcado por momentos difíceis, mas ele mostra bondade mesmo em meio aos planos da equipe."
+    },
+    {
+      "pergunta": "quem é o personagem Meowth?",
+      "resposta": "Meowth é um Pokémon falante e membro da Equipe Rocket. Sua inteligência e habilidade de falar o tornam único. Ele é responsável por bolar os planos da equipe, embora frequentemente se envolva em situações cômicas. Meowth tem um passado emocionante."
+    },
+    {
+      "pergunta": "quem é o personagem Tracey Sketchit?",
+      "resposta": "Tracey Sketchit é um observador Pokémon que se junta a Ash durante suas aventuras na região de Orange Islands. Ele tem grande interesse em estudar e desenhar Pokémon, trabalhando posteriormente como assistente do Professor Oak para aprofundar seus conhecimentos."
+    },
+    {
+      "pergunta": "quem é a personagem May?",
+      "resposta": "May é uma jovem treinadora da região de Hoenn que se junta a Ash em sua jornada. Ela sonha em ser uma Coordenadora Pokémon, participando de Concursos Pokémon. Seu crescimento pessoal e determinação tornam sua história inspiradora."
+    },
+    {
+      "pergunta": "quem é o personagem Max?",
+      "resposta": "Max é o irmão mais novo de May e um entusiasta de Pokémon. Embora ainda não seja um treinador oficial, ele possui grande conhecimento teórico e adora aprender mais sobre os Pokémon que encontra durante suas viagens com Ash e May."
+    },
+    {
+      "pergunta": "quem é o personagem Dawn?",
+      "resposta": "Dawn é uma Coordenadora Pokémon da região de Sinnoh e uma das companheiras de Ash. Ela sonha em seguir os passos de sua mãe, que foi uma Coordenadora renomada. Dawn é determinada e demonstra grande carinho por seus Pokémon."
+    },
+    {
+      "pergunta": "quem é a personagem Iris?",
+      "resposta": "Iris é uma treinadora de Pokémon dragão que viaja com Ash na região de Unova. Ela tem uma personalidade forte e um vínculo especial com seus Pokémon, especialmente Axew. Iris também sonha em se tornar uma Mestre de Pokémon Dragão."
+    },
+    {
+      "pergunta": "quem é o personagem Cilan?",
+      "resposta": "Cilan é um dos Líderes de Ginásio da região de Unova e um especialista em Pokémon do tipo grama. Ele viaja com Ash e Iris, mostrando seu conhecimento sobre batalhas, nutrição de Pokémon e estratégias. É educado e cheio de curiosidades."
+    },
+    {
+      "pergunta": "quem é a personagem Serena?",
+      "resposta": "Serena é uma amiga de infância de Ash e uma Coordenadora Pokémon na região de Kalos. Ela é conhecida por sua paixão por moda e concursos. Serena desenvolve um forte laço com seus Pokémon e demonstra grande crescimento ao longo de sua jornada."
+    },
+    {
+      "pergunta": "quem é o personagem Clemont?",
+      "resposta": "Clemont é o Líder do Ginásio de Lumiose City na região de Kalos e viaja com Ash. Ele é um inventor habilidoso e apaixonado por ciência. Sua dedicação ao treinamento de Pokémon e suas invenções muitas vezes ajudam nas aventuras."
+    },
+    {
+      "pergunta": "quem é a personagem Bonnie?",
+      "resposta": "Bonnie é a irmã mais nova de Clemont e viaja com ele e Ash. Embora não seja uma treinadora oficial, ela cuida de Dedenne, o Pokémon elétrico de Clemont, e demonstra um grande carinho por Pokémon. Sua energia contagia o grupo."
+    },
+    {
+      "pergunta": "quem é a personagem Lillie?",
+      "resposta": "Lillie é uma personagem da região de Alola e uma das amigas de Ash durante suas aventuras na Escola Pokémon. Inicialmente com medo de tocar em Pokémon, ela supera esse desafio e cria um vínculo especial com seu Pokémon Alolan Vulpix."
+    },
+    {
+      "pergunta": "quem é o personagem Sophocles?",
+      "resposta": "Sophocles é um estudante da Escola Pokémon na região de Alola. Ele é especialista em tecnologia e Pokémon do tipo elétrico. Apesar de tímido, demonstra habilidades notáveis em batalhas e se desenvolve ao lado de Ash e seus amigos."
+    },
+    {
+      "pergunta": "quem é o personagem Kiawe?",
+      "resposta": "Kiawe é um estudante da Escola Pokémon e um dos companheiros de Ash na região de Alola. Ele treina Pokémon do tipo fogo e tem um forte senso de responsabilidade, ajudando sua família em sua fazenda enquanto se esforça como treinador."
+    },
+    {
+      "pergunta": "quem é a personagem Mallow?",
+      "resposta": "Mallow é uma estudante da Escola Pokémon em Alola e especialista em Pokémon do tipo grama. Ela é animada e adora cozinhar, frequentemente criando receitas usando ingredientes regionais. Sua determinação inspira seus amigos."
+    },
+    {
+      "pergunta": "quem é a personagem Lana?",
+      "resposta": "Lana é uma estudante da Escola Pokémon e uma treinadora de Pokémon do tipo água. Ela é calma, confiante e adora pescar. Lana tem um vínculo especial com seu Pokémon Popplio e demonstra grande coragem em momentos importantes."
+    },
+    {
+      "pergunta": "quem é o personagem Gladion?",
+      "resposta": "Gladion é o irmão mais velho de Lillie e um treinador misterioso da região de Alola. Ele trabalha para proteger os Pokémon de experimentos cruéis e tem um vínculo especial com seu Silvally, um Pokémon único e poderoso."
+    },
+    {
+      "pergunta": "quem é o personagem Professor Kukui?",
+      "resposta": "Professor Kukui é um renomado pesquisador da região de Alola. Ele estuda movimentos Pokémon e é responsável por organizar a primeira Liga Pokémon de Alola. Kukui é uma figura inspiradora para Ash e seus amigos."
+    },
+    {
+      "pergunta": "quem é o personagem Go?",
+      "resposta": "Go é um pesquisador Pokémon que viaja ao lado de Ash em sua jornada por várias regiões. Ele sonha em capturar todos os Pokémon e tem um vínculo especial com seu Scorbunny, que eventualmente evolui para Cinderace."
+    }
+  ]
+}

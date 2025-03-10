@@ -1,0 +1,72 @@
+{
+  "conversas_bot": [
+    {
+      "pergunta": "pokemon Dratini",
+      "resposta": "Dratini é um Pokémon do tipo Dragão, conhecido por sua aparência serpentina. Ele possui grande agilidade na água e pode controlar sua energia para crescer de forma impressionante."
+    },
+    {
+      "pergunta": "pokemon Dragonair",
+      "resposta": "Dragonair é a evolução de Dratini, com uma aparência majestosa e asas que lhe permitem voar com graça. Ele pode controlar o clima e usar poderosas técnicas de dragão durante as batalhas."
+    },
+    {
+      "pergunta": "pokemon Dragonite",
+      "resposta": "Dragonite é a evolução final de Dratini, com uma grande combinação de força física e habilidades de voo. Ele é capaz de controlar ventos fortes e usar poderosas técnicas de dragão em combate."
+    },
+    {
+      "pergunta": "pokemon Kingdra",
+      "resposta": "Kingdra é um Pokémon do tipo Água e Dragão, conhecido por sua habilidade de nadar rapidamente e criar redemoinhos poderosos. Ele usa sua força para controlar os mares e proteger seu território."
+    },
+    {
+      "pergunta": "pokemon Bagon",
+      "resposta": "Bagon é um Pokémon do tipo Dragão, com um forte desejo de voar. Apesar de seu corpo pequeno, ele sonha em ser um dragão grande e forte, e treina constantemente para alcançar seus objetivos."
+    },
+    {
+      "pergunta": "pokémon Shelgon",
+      "resposta": "Shelgon é a evolução de Bagon, com uma camada de casca que o protege de ataques. Ele está em processo de evolução, se preparando para se transformar em um dragão poderoso."
+    },
+    {
+      "pergunta": "pokémon Salamence",
+      "resposta": "Salamence é a evolução final de Bagon, com grandes asas e uma força impressionante. Ele pode criar ventos fortes e ataques devastadores com suas habilidades de dragão em combate."
+    },
+    {
+      "pergunta": "pokémon Gible",
+      "resposta": "Gible é um Pokémon do tipo Dragão e Terra, conhecido por sua natureza feroz. Ele possui uma mandíbula poderosa e um instinto de caça que o torna muito eficaz em batalhas."
+    },
+    {
+      "pergunta": "pokémon Gabite",
+      "resposta": "Gabite é a evolução de Gible, com um corpo mais forte e um controle maior de suas habilidades. Ele pode usar sua força de dragão para desferir ataques rápidos e devastadores."
+    },
+    {
+      "pergunta": "pokémon Garchomp",
+      "resposta": "Garchomp é a evolução final de Gible, com um corpo robusto e habilidades de voo impressionantes. Ele é extremamente rápido e capaz de causar grandes danos com ataques de dragão e terra."
+    },
+    {
+      "pergunta": "pokémon Axew",
+      "resposta": "Axew é um Pokémon do tipo Dragão, com presas afiadas e uma personalidade destemida. Ele pode usar suas presas em combate e possui um grande potencial de crescimento."
+    },
+    {
+      "pergunta": "pokémon Fraxure",
+      "resposta": "Fraxure é a evolução de Axew, com presas ainda maiores e um corpo mais robusto. Ele está em um caminho de evolução para se tornar um dragão muito mais forte e habilidoso."
+    },
+    {
+      "pergunta": "pokémon Haxorus",
+      "resposta": "Haxorus é a evolução final de Axew, com uma força imensa e presas afiadíssimas. Ele é capaz de desferir ataques poderosos de dragão e cortar qualquer obstáculo que se coloque em seu caminho."
+    },
+    {
+      "pergunta": "pokémon Deino",
+      "resposta": "Deino é um Pokémon do tipo Dragão e Sombrio, com um comportamento selvagem. Ele está em constante busca de poder, mostrando uma enorme força de vontade e resistência."
+    },
+    {
+      "pergunta": "pokémon Zweilous",
+      "resposta": "Zweilous é a evolução de Deino, com duas cabeças que lhe dão uma percepção de 360 graus. Ele usa suas habilidades de dragão para atacar seus inimigos com maior eficácia."
+    },
+    {
+      "pergunta": "pokémon Hydreigon",
+      "resposta": "Hydreigon é a evolução final de Deino, com três cabeças que representam sua força, poder e inteligência. Ele é extremamente destrutivo, capaz de atacar com uma força avassaladora."
+    },
+    {
+      "pergunta": "pokémon Drampa",
+      "resposta": "Drampa é um Pokémon do tipo Dragão e Normal, conhecido por sua natureza amigável. Ele pode voar e lançar poderosos ataques de dragão, ao mesmo tempo em que tem um forte senso de proteção."
+    }
+  ]
+}

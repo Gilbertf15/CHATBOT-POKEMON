@@ -1,0 +1,64 @@
+{
+  "conversas_bot": [
+    {
+      "pergunta": "pokémon Geodude",
+      "resposta": "Geodude é um Pokémon do tipo Terra e Rocha, com um corpo formado por pedras que o tornam extremamente resistente. Ele usa sua força para atacar com poderosos socos e esmagar os adversários."
+    },
+    {
+      "pergunta": "pokémon Graveler",
+      "resposta": "Graveler é a evolução de Geodude, com um corpo ainda mais forte e a habilidade de causar grandes tremores no solo durante as batalhas."
+    },
+    {
+      "pergunta": "pokémon Golem",
+      "resposta": "Golem é a evolução final de Geodude, um Pokémon do tipo Terra e Rocha com imensa força física, capaz de causar danos devastadores ao lançar pedras e causar abalos sísmicos."
+    },
+    {
+      "pergunta": "pokémon Onix",
+      "resposta": "Onix é um Pokémon do tipo Terra e Rocha, com um corpo composto por enormes pedras que ele usa para se proteger e atacar com grande força. Seus movimentos são lentos, mas poderosos."
+    },
+    {
+      "pergunta": "pokémon Steelix",
+      "resposta": "Steelix é a evolução de Onix, com um corpo metálico que o torna ainda mais resistente e com ataques ainda mais poderosos, capazes de causar tremores na terra."
+    },
+    {
+      "pergunta": "pokémon Sandslash",
+      "resposta": "Sandslash é um Pokémon do tipo Terra, com garras afiadas e poderosas que ele usa para cavar e atacar seus inimigos, além de ser muito ágil em terrenos arenosos."
+    },
+    {
+      "pergunta": "pokémon Sandslash-Alola",
+      "resposta": "Sandslash-Alola é uma forma regional de Sandslash, que adaptou-se ao clima frio e agora possui espinhos de gelo, tornando-o capaz de lançar ataques gelados e ainda usando suas garras para cavar."
+    },
+    {
+      "pergunta": "pokémon Diglett",
+      "resposta": "Diglett é um Pokémon do tipo Terra, que se esconde debaixo da terra e se move rapidamente, atacando seus adversários de forma sorrateira com seus poderosos ataques subterrâneos."
+    },
+    {
+      "pergunta": "pokémon Dugtrio",
+      "resposta": "Dugtrio é a evolução de Diglett, formado por três Digletts que se movem rapidamente sob a terra e atacam seus inimigos com tremores e ataques surpresa."
+    },
+    {
+      "pergunta": "pokémon Trapinch",
+      "resposta": "Trapinch é um Pokémon do tipo Terra, que vive em áreas arenosas e usa seu corpo para cavar e atacar com força, capaz de criar pequenas armadilhas no solo."
+    },
+    {
+      "pergunta": "pokémon Vibrava",
+      "resposta": "Vibrava é a evolução de Trapinch, com a habilidade de voar e gerar ventos fortes, enquanto ainda usa seus poderes de Terra para causar tremores no solo."
+    },
+    {
+      "pergunta": "pokémon Flygon",
+      "resposta": "Flygon é a evolução final de Trapinch, um Pokémon do tipo Terra e Dragão, que combina habilidades de voo com poderosos ataques de terra e vento."
+    },
+    {
+      "pergunta": "pokémon Baltoy",
+      "resposta": "Baltoy é um Pokémon do tipo Terra e Psíquico, com a habilidade de girar e usar o campo magnético para atacar e defender-se de forma única."
+    },
+    {
+      "pergunta": "pokémon Claydol",
+      "resposta": "Claydol é a evolução de Baltoy, um Pokémon do tipo Terra e Psíquico, que utiliza seus poderes de campo magnético e psíquicos para atacar e se proteger."
+    },
+    {
+      "pergunta": "pokémon Excadrill",
+      "resposta": "Excadrill é um Pokémon do tipo Terra e Aço, especializado em escavação, capaz de se mover rapidamente sob a terra e atacar com suas garras afiadas."
+    }
+  ]
+}
