@@ -4,15 +4,16 @@ from chatterbot.trainers import ListTrainer
 from typing import Type
 
 class Training:
-    """_summary_
+    """ CLASSE DE TREINAMENTO DO CHATBOT
     """
     @staticmethod
     def training_bot(param_bot:Type[ChatBotPokemon], param_training) -> None:
-        """_summary_
+        """ MÉTODO ESTÁTICO  DE TREINAMENTO DO CHATBOT
 
         Args:
-            param_bot (Type[ChatBotPokemon]): _description_
-            param_training (_type_): _description_
+            param_bot (Type[ChatBotPokemon]): Espera como argumento uma instância da clase ChatBotPokemon
+            
+            param_training (String): Espera como argumento o caminho do arquivo de treinamneto no formato json
         """
         with open(param_training, 'r', encoding='utf-8') as t:
             dados_bot = json.load(t)

@@ -5,13 +5,10 @@ class ENGSM:
     ISO_639_1 = 'en_core_web_sm'
 
 class ChatBotPokemon(ChatBot):
-    """_summary_
-
-    Args:
-        ChatBot (_type_): _description_
+    """CLASSE DE CRIÇÃO DO CHATBOT
     """
     def __init__(self):
-        """_summary_
+        """MÉTODO CONSTRUTOR DO CHATBOT
         """
         super().__init__("Bot Pokemon",
                             #logic_adapters=[

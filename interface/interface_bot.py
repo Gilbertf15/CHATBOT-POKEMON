@@ -4,23 +4,20 @@ from training.MainTraining import MainProject
 from PIL import Image
 
 class InterfaceBot:
-    """_summary_
+    """CLASSE DA INTERFACE GRAFICA
     """
     
     def __init__(self, loop):
-        """_summary_
+        """MÉTODO CONTRUTOR DA INTERFACE GRAFICA
 
         Args:
-            loop (_type_): _description_
+            loop (ctk.CTk): espera uma instância do tipo ctk.CTk()
         """
         self.loop = loop
         self.loop.geometry('1000x1000')
         self.loop.title('Chat Bot')
         self.loop.resizable(False, False)
         ctk.set_appearance_mode('dark')
-
-        #self.label_title = ctk.CTkLabel(self.loop, text='CHAT BOT POKÉMON', font=('Times New Roman', 15))
-        #self.label_title.pack()
 
         self.bg_title = ctk.CTkImage(Image.open("./static/img/logo_pokemon.png"), size=(300,200))
         self.label_bg_title = ctk.CTkLabel(self.loop, text='', image=self.bg_title)
@@ -55,14 +52,14 @@ class InterfaceBot:
         self.botton_clear.place(x=500, y=230)
        
     @staticmethod
-    def delete_result(entry:ctk.CTkLabel) -> str | None:
-        """_summary_
+    def delete_result(entry:ctk.CTkLabel) -> str:
+        """MÉTODO PARA DELETAR O VALOR TEXT DO CTKLABEL
 
         Args:
-            entry (ctk.CTkLabel): _description_
+            entry (ctk.CTkLabel): espera uma instância do tipo  ctk.CTkLabel
 
         Returns:
-            str | None: _description_
+            str : retorna o valor do atributo text da Label deletado ou um except error
         """
         try: 
             bot = entry.configure(text='')
@@ -71,11 +68,11 @@ class InterfaceBot:
         except:
             return 'error ao deletar'
          
-    def return_entry(self) -> str | None:
-        """_summary_
+    def return_entry(self) -> str :
+        """MÉTODO PARA PEGAR O VALOR DO CTKENTRY
 
         Returns:
-            str | None: _description_
+            str: retorna o valor de CTKENTRY em string
         """
         
         response =  str(self.input_var.get())
@@ -83,19 +80,4 @@ class InterfaceBot:
         return response
    
 
-    
-  
-
-
-class ViewBot(InterfaceBot):
-    """_summary_
-
-    Args:
-        InterfaceBot (_type_): _description_
-    """
-    def __init__(self):
-        super().__init__(loop=self.loop)
-        
-
-   
 
